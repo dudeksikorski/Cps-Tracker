@@ -1,0 +1,10 @@
+C:\Users\Dudek\source\repos\cps-tracker\bin\Debug\cps-tracker.exe.config
+C:\Users\Dudek\source\repos\cps-tracker\bin\Debug\cps-tracker.exe
+C:\Users\Dudek\source\repos\cps-tracker\bin\Debug\cps-tracker.pdb
+C:\Users\Dudek\source\repos\cps-tracker\obj\Debug\cps-tracker.csprojAssemblyReference.cache
+C:\Users\Dudek\source\repos\cps-tracker\obj\Debug\cps_tracker.Form1.resources
+C:\Users\Dudek\source\repos\cps-tracker\obj\Debug\cps_tracker.Properties.Resources.resources
+C:\Users\Dudek\source\repos\cps-tracker\obj\Debug\cps-tracker.csproj.GenerateResource.cache
+C:\Users\Dudek\source\repos\cps-tracker\obj\Debug\cps-tracker.csproj.CoreCompileInputs.cache
+C:\Users\Dudek\source\repos\cps-tracker\obj\Debug\cps-tracker.exe
+C:\Users\Dudek\source\repos\cps-tracker\obj\Debug\cps-tracker.pdb
